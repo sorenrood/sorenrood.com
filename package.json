@@ -10,8 +10,6 @@
     "export": "next export"
   },
   "dependencies": {
-    "@amplitude/analytics-node": "^1.0.1",
-    "@vercel/analytics": "^0.1.6",
     "autoprefixer": "^9.8.6",
     "gray-matter": "^4.0.2",
     "next": "^12.1.4",
